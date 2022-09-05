@@ -7,7 +7,6 @@
         Diagnostics = diagnostics;
         Root = root;
         EndofFileToken = endoffiletoken;
-
       }
     }
   }
